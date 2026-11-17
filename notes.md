@@ -7,8 +7,6 @@
 
 ## Summary of changes
 
-Nothing is committed yet.
-
 **Tracked by git**
 - `package.json` (modified): added `"keywords": ["unit4", "git-playground"]`.
 - `notes.md` (new, untracked): `# Notes` heading plus two bullets, "added a note to notes.json" and "added info to package.json".
